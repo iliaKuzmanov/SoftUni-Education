@@ -1,0 +1,14 @@
+F:\softuni\basics\ConditionalStatementsAdvancedExercise\03.NewHouse\bin\Debug\netcoreapp3.1\03.NewHouse.exe
+F:\softuni\basics\ConditionalStatementsAdvancedExercise\03.NewHouse\bin\Debug\netcoreapp3.1\03.NewHouse.deps.json
+F:\softuni\basics\ConditionalStatementsAdvancedExercise\03.NewHouse\bin\Debug\netcoreapp3.1\03.NewHouse.runtimeconfig.json
+F:\softuni\basics\ConditionalStatementsAdvancedExercise\03.NewHouse\bin\Debug\netcoreapp3.1\03.NewHouse.runtimeconfig.dev.json
+F:\softuni\basics\ConditionalStatementsAdvancedExercise\03.NewHouse\bin\Debug\netcoreapp3.1\03.NewHouse.dll
+F:\softuni\basics\ConditionalStatementsAdvancedExercise\03.NewHouse\bin\Debug\netcoreapp3.1\03.NewHouse.pdb
+F:\softuni\basics\ConditionalStatementsAdvancedExercise\03.NewHouse\obj\Debug\netcoreapp3.1\03.NewHouse.csproj.AssemblyReference.cache
+F:\softuni\basics\ConditionalStatementsAdvancedExercise\03.NewHouse\obj\Debug\netcoreapp3.1\03.NewHouse.GeneratedMSBuildEditorConfig.editorconfig
+F:\softuni\basics\ConditionalStatementsAdvancedExercise\03.NewHouse\obj\Debug\netcoreapp3.1\03.NewHouse.AssemblyInfoInputs.cache
+F:\softuni\basics\ConditionalStatementsAdvancedExercise\03.NewHouse\obj\Debug\netcoreapp3.1\03.NewHouse.AssemblyInfo.cs
+F:\softuni\basics\ConditionalStatementsAdvancedExercise\03.NewHouse\obj\Debug\netcoreapp3.1\03.NewHouse.csproj.CoreCompileInputs.cache
+F:\softuni\basics\ConditionalStatementsAdvancedExercise\03.NewHouse\obj\Debug\netcoreapp3.1\03.NewHouse.dll
+F:\softuni\basics\ConditionalStatementsAdvancedExercise\03.NewHouse\obj\Debug\netcoreapp3.1\03.NewHouse.pdb
+F:\softuni\basics\ConditionalStatementsAdvancedExercise\03.NewHouse\obj\Debug\netcoreapp3.1\03.NewHouse.genruntimeconfig.cache
